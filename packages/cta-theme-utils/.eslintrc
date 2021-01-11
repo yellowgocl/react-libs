@@ -2,5 +2,14 @@
   "extends": [
     "@cta-theme/lint-config"
   ],
+//   "parserOptions": {
+//     "ecmaVersion": 6,
+//     "sourceType": "module",
+//     "ecmaFeatures": {
+//       "legacyDecorators": true,
+//       "modules": true,
+//       "jsx": true,
+//     },
+//   },
   "rules": {}
 }

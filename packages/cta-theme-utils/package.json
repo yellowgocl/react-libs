@@ -27,7 +27,7 @@
     "react": "^16.0.0"
   },
   "devDependencies": {
-    "@cta-theme/lint-config": "^0.0.3",
+    "@cta-theme/lint-config": "file:../lint-config",
     "babel-eslint": "^10.0.3",
     "cross-env": "^7.0.2",
     "eslint": "^6.8.0",
@@ -51,7 +51,7 @@
   "files": [
     "dist"
   ],
-  "gitHead": "237d3a0ae495811996299e4f794be1e74bcdd7e5",
+  "gitHead": "bea096ef4580ef9749b4f141da68e7cf9f559c7b",
   "dependencies": {
     "@cta-theme/lint-config": "^0.0.4"
   }
