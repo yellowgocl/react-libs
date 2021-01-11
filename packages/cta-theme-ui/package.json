@@ -57,5 +57,5 @@
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
   },
-  "gitHead": "1dbc27acea0c88c2f1ab41f342dbb947e7b24eb0"
+  "gitHead": "74357ffa68e1965991ec4184bf4812abb2c7259f"
 }
