@@ -9,7 +9,8 @@
     "bootstrap": "lerna  bootstrap --use-workspaces"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "commitizen": "^4.2.2",
