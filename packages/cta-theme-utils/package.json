@@ -1,6 +1,6 @@
 {
   "name": "cta-theme-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Made with create-react-library",
   "author": "yellowgocl",
   "license": "MIT",
@@ -53,6 +53,6 @@
   ],
   "gitHead": "237d3a0ae495811996299e4f794be1e74bcdd7e5",
   "dependencies": {
-    "@cta-theme/lint-config": "^0.0.3"
+    "@cta-theme/lint-config": "^0.0.4"
   }
 }
