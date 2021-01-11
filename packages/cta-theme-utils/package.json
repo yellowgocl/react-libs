@@ -51,7 +51,7 @@
   "files": [
     "dist"
   ],
-  "gitHead": "bea096ef4580ef9749b4f141da68e7cf9f559c7b",
+  "gitHead": "1dbc27acea0c88c2f1ab41f342dbb947e7b24eb0",
   "dependencies": {
     "@cta-theme/lint-config": "^0.0.5"
   }
