@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@cta-theme/lint-config"
+    "cta-theme-lint-config"
   ],
 //   "parserOptions": {
 //     "ecmaVersion": 6,

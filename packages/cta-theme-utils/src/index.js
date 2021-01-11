@@ -1,4 +1,4 @@
 export const test = () => {
-    const a = ''
+    const a = '';
   return 'test util by cta-theme-utils, '
 }

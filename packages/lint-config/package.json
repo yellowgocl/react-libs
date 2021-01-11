@@ -1,5 +1,5 @@
 {
-  "name": "@cta-theme/lint-config",
+  "name": "cta-theme-lint-config",
   "version": "0.0.9",
   "description": "> TODO: description",
   "author": "got.wang <got@zhibankeji.com>",
@@ -29,5 +29,5 @@
   "devDependencies": {
     "eslint": "^7.17.0"
   },
-  "gitHead": "a91229754dae2b1c8ab804e169837ed2b2f45073"
+  "gitHead": "aacbf0562325b1726eb11b79f0a84967612d0326"
 }

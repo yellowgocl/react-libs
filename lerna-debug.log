@@ -1,0 +1,14 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'cta-theme-utils',
+0 silly argv   dev: true,
+0 silly argv   D: true,
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': '..\\..\\..\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'cta-theme-lint-config'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath C:\Users\color\Documents\workspace\temp\react-component
+3 error Error: 404 Not Found - GET https://registry.npmjs.org/cta-theme-lint-config - Not found
+3 error     at C:\Users\color\Documents\workspace\temp\react-component\node_modules\@evocateur\npm-registry-fetch\check-response.js:104:15
