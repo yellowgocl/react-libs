@@ -1,5 +1,10 @@
 /* add css module styles here (optional) */
-@import '~antd/dist/antd.css';
+/* @import '~antd/dist/antd.css'; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .test {
   margin: 2em;
   padding: 0.5em;

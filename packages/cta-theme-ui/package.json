@@ -51,7 +51,11 @@
     "dist"
   ],
   "dependencies": {
-    "antd": "^4.9.4"
+    "@tailwindcss/postcss7-compat": "^2.0.1",
+    "antd": "^4.9.4",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
   },
   "gitHead": "237d3a0ae495811996299e4f794be1e74bcdd7e5"
 }
