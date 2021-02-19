@@ -36,5 +36,6 @@
     "microbundle-crl": "^0.13.10",
     "npm-run-all": "^4.1.5",
     "react": "^16.13.1"
-  }
+  },
+  "gitHead": "bdc32806f8efe32511d2b1fbd4a41131df161e65"
 }
