@@ -1,0 +1,1 @@
+{"version":3,"file":"index.modern.js","sources":["../src/index.js"],"sourcesContent":["export const off = () => console.info('off')\nexport const on = () => console.info('on')"],"names":["off","console","info","on"],"mappings":"MAAaA,GAAG,GAAG,MAAMC,OAAO,CAACC,IAAR,CAAa,KAAb;MACZC,EAAE,GAAG,MAAMF,OAAO,CAACC,IAAR,CAAa,IAAb;;;;"}

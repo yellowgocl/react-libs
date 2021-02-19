@@ -1,0 +1,22 @@
+{
+  "name": "generator-cta-theme",
+  "version": "0.0.10",
+  "description": "> TODO: description",
+  "author": "got.wang <got@zhibankeji.com>",
+  "homepage": "https://github.com/yellowgocl/react-libs#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowgocl/react-libs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yellowgocl/react-libs/issues"
+  },
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  },
+  "keywords": [
+    "kadm"
+  ]
+}

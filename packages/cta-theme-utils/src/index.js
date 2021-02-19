@@ -1,4 +1,1 @@
-export const test = () => {
-    const a = '';
-  return 'test util by cta-theme-utils, '
-}
+export const test = () => 'test util by cta-theme-utils, ';

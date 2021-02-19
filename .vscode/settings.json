@@ -1,0 +1,11 @@
+{
+    "[css]": { "editor.formatOnSave": false },
+    "files.associations": { "*.js": "javascript" },
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": false
+    },
+    "eslint.lintTask.enable": true
+}

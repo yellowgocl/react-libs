@@ -1,0 +1,40 @@
+{
+  "name": "@cta-theme/tools",
+  "version": "0.0.10",
+  "description": "> TODO: description",
+  "author": "got.wang <got@zhibankeji.com>",
+  "homepage": "https://github.com/yellowgocl/react-libs#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "dist/index.modern.js",
+  "source": "src/index.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowgocl/react-libs.git"
+  },
+  "scripts": {
+    "build": "microbundle-crl --no-compress --format modern,cjs",
+    "start": "microbundle-crl watch --no-compress --format modern,cjs",
+    "prepare": "run-s build",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yellowgocl/react-libs/issues"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "microbundle-crl": "^0.13.10",
+    "npm-run-all": "^4.1.5",
+    "react": "^16.13.1"
+  }
+}
