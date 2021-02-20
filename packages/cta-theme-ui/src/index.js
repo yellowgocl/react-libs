@@ -23,6 +23,7 @@ export const ExampleComponent = ({ text }) => {
       <form onSubmit={handleSubmit}>
         <input
           type='text'
+          id='adf'
           value={nameValue}
           onChange={(e) => {
             setNameValue(e.target.value)
