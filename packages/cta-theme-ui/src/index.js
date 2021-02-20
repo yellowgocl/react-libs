@@ -25,7 +25,6 @@ export const ExampleComponent = ({ text }) => {
           type='text'
           value={nameValue}
           onChange={(e) => {
-            console.info(e.target.value)
             setNameValue(e.target.value)
           }}
         />
